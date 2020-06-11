@@ -71,7 +71,7 @@
                               <!-- End contact Icon -->
                               <div class="contact-info">
                                  <h3>İSTANBUL, TÜRKİYE</h3>
-                                 <p>AYKOSAN</p>
+                                 <p>AYKOSAN,İKİTELLİ</p>
                               </div>
                               <!-- End Contact Info -->
                            </div>
